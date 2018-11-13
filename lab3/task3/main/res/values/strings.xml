@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">nida3</string>
+    <string name="welcome_to_the_app">welcome to the app</string>
+    <string name="get_massage">Get Massage</string>
+</resources>
