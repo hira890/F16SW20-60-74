@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">labtask2</string>
+    <string name="hira">hira</string>
+    <string name="f16sw20">F16SW20</string>
+    <string name="hira_mustafa">HIRA MUSTAFA</string>
+    <string name="hiraf_mustafa_gmail_com">hiraf.mustafa@gmail.com</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="next">NEXT</string>
+</resources>
